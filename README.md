@@ -1,23 +1,21 @@
-# 📊 Dashboard de Análise Financeira Pro
+# 📊 Dashboard de Análise Financeira
 
-Este projeto é um dashboard interativo focado em Business Intelligence, desenvolvido para facilitar a visualização de receitas, despesas e margem de lucro de forma intuitiva.
+Dashboard interativo desenvolvido para análise de performance empresarial, focado em clareza de dados e experiência do usuário.
 
-## 🚀 Tecnologias Utilizadas
-- **Python**: Lógica e processamento de dados.
-- **Streamlit**: Framework para criação da interface web.
-- **Pandas**: Manipulação de dados estruturados.
-- **Plotly**: Gráficos dinâmicos e interativos.
+## 🚀 Tecnologias
+* **Python** (Lógica principal)
+* **Streamlit** (Interface Web)
+* **Plotly** (Gráficos Interativos)
+* **Pandas** (Tratamento de Dados)
 
 ## 💡 Funcionalidades
-- **Cards de Métricas:** Visualização rápida de faturamento e lucro.
-- **Gráficos Interativos:** Comparativo mensal de receitas vs despesas.
-- **Filtros Dinâmicos:** Seleção de períodos através da barra lateral.
-- **Tabela de Dados:** Visualização detalhada dos dados brutos.
+* **Métricas em Tempo Real:** Visualização de Receita e Lucro.
+* **Interatividade:** Gráficos que respondem a filtros.
+* **Transparência:** Acesso aos dados brutos via tabela expansível.
 
-## 🛠️ Como rodar o projeto localmente
-1. Clone o repositório: `git clone https://github.com`
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o app: `streamlit run app.py`
+---
+💡 *Este é um projeto de portfólio para demonstração técnica.*
+
 
 ---
 Desenvolvido por [Marco Aurélio] - [www.linkedin.com/in/marco-aurélio-moreira]
